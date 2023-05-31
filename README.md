@@ -22,6 +22,6 @@ Execute ng test para executar os testes unitários via Karma.
 
 Execute ng e2e para executar os testes de ponta a ponta via Protractor.
 
-#Ajuda adicional
+# Saiba Mais
 
 Para obter mais ajuda sobre o Angular CLI, use ng help ou consulte a página de Visão Geral e Referência de Comandos do Angular CLI.
